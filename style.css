@@ -1,0 +1,9 @@
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255 255 255);
+  font-weight: 400;
+}
+
+.carousel-inner > .carousel-item > img {
+  width: 100%;
+  height: 850px;
+}
